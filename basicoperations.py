@@ -9,3 +9,12 @@ print(sum)
 print(mult)
 print(dev)
 print(sub)
+
+output---------------------------------------
+python3 basicoperations.py
+50
+225
+9.0
+40
+
+
