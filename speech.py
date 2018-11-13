@@ -10,3 +10,7 @@ except sr.UnknowValueError:
 	print("could not understand audio")
 except sr.RequestError as e:
 	print("Could not request results;{0}".format(e))
+	
+output:
+speak:
+You saidhello
